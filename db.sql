@@ -1,15 +1,4 @@
---
---
--- Author           Pierre-Henry Soria <phy@hizup.uk>
--- Copyright        (c) 2015-2017, Pierre-Henry Soria. All Rights Reserved.
--- License          Lesser General Public License <http://www.gnu.org/copyleft/lesser.html>
--- Link             http://hizup.uk
---
---
 
---
--- Set some SQL Variables --
---
 SET @sAdminEmail = 'test@test.com';
 SET @sAdminPassword = '$2y$14$kefF6aqkuOEWo7CIFduNf.7O8BuGR4uWrIAFcHWm2u99OcLPDFWOe';
 SET @sPostTitle = 'My First Post';
